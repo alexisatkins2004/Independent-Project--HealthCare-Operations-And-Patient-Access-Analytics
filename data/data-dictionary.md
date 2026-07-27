@@ -1,5 +1,7 @@
 # Data Dictionary
 
+---
+
 ## Monthly Appointment Data Dictionary 
 
 | Column | Type | Description |
